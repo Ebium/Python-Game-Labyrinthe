@@ -3,7 +3,7 @@ Développement d'un jeu labyrinthe en python
 
 
 # Lancement
-Télecharger le .py puis l'exécuter avec : python ./laby_game.py 
+Télecharger le dossier "game" puis exécuter le .py avec : python ./laby_game.py 
 Python3 nécessaire pour lancer le programme : https://www.python.org/downloads/
 
 
